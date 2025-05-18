@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSenseMap.API", "OpenSenseMap.API\OpenSenseMap.API.csproj", "{206C6ED3-7A81-49B9-A3BE-58F2555EF80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "..\Users\edenh\source\repos\Test\Fibonacci\Fibonacci.csproj", "{AE882E77-703A-4966-B5CE-7684F74DA6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMultiplesBy3or5", "..\Users\edenh\source\repos\Test\SumMultiples3or5\SumMultiplesBy3or5.csproj", "{C61AD281-98F6-431F-8871-9DD234ADE5C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206C6ED3-7A81-49B9-A3BE-58F2555EF80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206C6ED3-7A81-49B9-A3BE-58F2555EF80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206C6ED3-7A81-49B9-A3BE-58F2555EF80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206C6ED3-7A81-49B9-A3BE-58F2555EF80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE882E77-703A-4966-B5CE-7684F74DA6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE882E77-703A-4966-B5CE-7684F74DA6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE882E77-703A-4966-B5CE-7684F74DA6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE882E77-703A-4966-B5CE-7684F74DA6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61AD281-98F6-431F-8871-9DD234ADE5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61AD281-98F6-431F-8871-9DD234ADE5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61AD281-98F6-431F-8871-9DD234ADE5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61AD281-98F6-431F-8871-9DD234ADE5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {894CA57F-FDDB-453E-9316-D4F2BFC20CE5}
+	EndGlobalSection
+EndGlobal
