@@ -2,7 +2,7 @@
 
 namespace OpenSenseMap.API.Models
 {
-    public class BaseUser
+    public abstract class BaseUser
     {
         [Required]
         [EmailAddress]
